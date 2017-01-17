@@ -33,12 +33,13 @@ a:visited {
 	background-color: whitesmoke;
 }
 .block_2 {
-	margin-left: 20%;
-	margin-right: 20%;
+	overflow: hidden;
 }
 .movie {
 	float: left;
+	margin-left: 20%;
 }
 .actor {
 	float: right;
+	margin-right: 20%;
 }

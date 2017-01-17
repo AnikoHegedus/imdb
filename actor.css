@@ -29,6 +29,7 @@ img {
 }
 .block {
 	background-color: whitesmoke;
+	overflow: hidden;
 }
 h2 {
 	font-size: 1.7em;

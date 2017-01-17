@@ -15,6 +15,11 @@ h1 {
 	top: 40%;
 }
 .first-part {
+	background-color: whitesmoke;
+	overflow: hidden;
+}
+
+.title{
 	float: left;
 	margin-left: 20%;
 }
